@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0">
+    <channel>
+        <title>Example Feed</title>
+        <description>9 images of grass in one page</description>
+        <link>https://github.com/A22OscarNM/ProjectRSSide</link>
+        <pubDate>Thu, 23 Nov 2022 09:06:00 GMT</pubDate>
+        <managingEditor>a22oscarnm@iessanclemente.net</managingEditor>
+        <item>
+            <title>Grass</title>
+            <link>https://a22oscarnm.github.io/PlantasRSS/plantas.html</link>
+            <pubDate>Thu, 23 Nov 2022 09:06:00 GMT</pubDate>
+            <description>Different images of grass</description>
+        </item>
+    </channel>
+</rss>
